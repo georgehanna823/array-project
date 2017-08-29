@@ -1,6 +1,6 @@
-# Automation Project
+# Array Project
 
-*Structure for creating a Basic Java Project.*
+*Employee Entry Basic Array Project.*
 
 **Java 7**
 
